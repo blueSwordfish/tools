@@ -6,3 +6,7 @@ I am hoping by maintain records on them can help me use these tools more efficie
 1. git commands
 
 2. unix/limux commands
+
+3. Java 
+
+4. eclipse
